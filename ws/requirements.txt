@@ -1,0 +1,17 @@
+requests
+loggly-python-handler
+flask
+json_log_formatter
+rich
+redis
+flask_restful
+flask_httpauth
+routes
+flask_cors
+emojis
+boto3
+pyjwt
+polling2
+py-healthcheck
+xmltodict
+newrelic
